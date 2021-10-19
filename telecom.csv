@@ -1,0 +1,17 @@
+Age_group,Gender,Mobile_network,Mobile_data_performance,Call_SMS_facility,Network_issues,Most_liked_facility,Facility_needs_improvement 
+0-18,Female,3G,3,4,3,Calling,Mobile Data
+45 above,Male,4G,4,5,4,Mobile Data,None
+18-25,Male,5G,5,5,5,Mobile Data,None
+25-45,Other,2G,2,4,2,SMS,Mobile Data
+0-18,Female,2G,2,5,2,Calling,Mobile Data
+45 above,Male,2G,2,4,2,SMS,Calling
+18-25,Male,4G,4,5,4,Mobile Data,None
+25-45,Other,5G,5,4,5,Mobile Data,Calling
+0-18,Female,4G,2,5,2,Mobile Data,SMS
+45 above,Male,2G,2,4,2,Calling,Mobile Data
+18-25,Male,5G,5,5,5,Mobile Data,Calling
+25-45,Other,4G,4,4,4,Mobile Data,None
+0-18,Female,5G,5,5,5,Mobile Data,Calling
+45 above,Male,4G,4,4,4,Mobile Data,None
+18-25,Male,2G,2,5,2,Calling,Mobile Data
+,,,,,,,
